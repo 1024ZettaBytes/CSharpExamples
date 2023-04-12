@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{92AAFEED-C040-4208-9970-68B2447FC4CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpExamples/ClienteRepositoryMongo.cs">
+    <Files>
+      <File FileName="CSharpExamples/Program.cs" Line="1" Column="1" />
+      <File FileName="CSharpExamples/Cliente.cs" Line="14" Column="30" />
+      <File FileName="CSharpExamples/ICLienteRepository.cs" Line="6" Column="39" />
+      <File FileName="CSharpExamples/ClienteRepositorySQLServer.cs" Line="12" Column="75" />
+      <File FileName="CSharpExamples/ClienteRepositoryMongo.cs" Line="4" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpExamples" expanded="True">
+            <Node name="CSharpExamples" expanded="True">
+              <Node name="ClienteRepositoryMongo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpExamples FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
